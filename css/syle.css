@@ -11,5 +11,9 @@ p{
 }
 
 footer{
-background-color: palegreen;
+background-color: greenyellow;
+}
+
+header{
+    text-align: center;
 }
