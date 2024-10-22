@@ -7,7 +7,7 @@ h2{
 }
 
 p{
-    font-family: cursive;
+    font-family: cursive; 
 }
 
 footer{
@@ -19,8 +19,5 @@ header{
     text-align: center;
 }
 
-.logo{
-    width: 30px;
-    
-}
+
 
