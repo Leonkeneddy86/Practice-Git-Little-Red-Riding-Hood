@@ -11,10 +11,16 @@ p{
 }
 
 footer{
-background-color: greenyellow;
+    background-color: turquoise;
 }
+
 
 header{
     text-align: center;
+}
+
+.logo{
+    width: 30px;
+    
 }
 
